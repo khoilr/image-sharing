@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1026763462654",
+    "firebase_url": "https://symbolic-idea-367906-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "symbolic-idea-367906",
+    "storage_bucket": "symbolic-idea-367906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026763462654:android:838cd17504b146219992af",
+        "android_client_info": {
+          "package_name": "com.androidlearning.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlAXvmVIttCQeU7pjGVfZ4n17sx_NaC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

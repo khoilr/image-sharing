@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_publish_screen">PublishScreen</string>
+    <string name="title_activity_root_navigation_graphs">RootNavigationGraphs</string>
+</resources>
